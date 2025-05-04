@@ -17,12 +17,12 @@
     },
     "OWNER_NUMBER": {
       "description": "Enter your number with country code (e.g., 263xxx for Zimbabwe)",
-      "value": "",
+      "value": "256700273834",
       "required": true
     },
     "OWNER_NAME": {
       "description": "Owner name",
-      "value": "",
+      "value": "Malikmosh",
       "required": true
     },
     "STICKER_AUTHOR_NAME": {
