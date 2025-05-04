@@ -2,13 +2,13 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "263716304574"
+global.ownernomer = "256700273834"
 global.ownername = "iconic tech"
 global.ytname = "YT: Iconictechnology"
 global.socialm = "GitHub: kineboi"
-global.location = "Zimbabwe, Bulawayo, harare"
+global.location = "Uganda, Wakiso, Kampala"
 
-global.ownernumber = '263716304574'  //creator number
+global.ownernumber = '256700273834'  //creator number
 global.ownername = 'iconic tech' //owner name
 global.botname = 'ﾌㄖҜ乇尺 爪卂乂' //name of the bot
 
@@ -24,16 +24,16 @@ global.wm = "ɪᴄᴏɴɪᴄ ᴛᴇᴄʜ"
 global.link = 'https://whatsapp.com/channel/0029ValX2Js9RZAVtDgMYj0r'
 
 //custom prefix
-global.prefa = ['','!','.','#','&']
+global.prefa = '.'
 
 //false=disable and true=enable
-global.autoRecording = true//auto recording
-global.autoTyping = true //auto typing
-global.autorecordtype = true //auto typing + recording
-global.autoread = true //auto read messages
-global.autobio = false //auto update bio
+global.autoRecording = 'false'//auto recording
+global.autoTyping = 'false'//auto typing
+global.autorecordtype = 'false' //auto typing + recording
+global.autoread = 'false'//auto read messages
+global.autobio = 'false'//auto update bio
 global.anti91 = false //auto block +91 
-global.autoswview = true //auto view status/story
+global.autoswview = 'false'//auto view status/story
 global.typemenu = 'v2'
 
 //text bug
